@@ -232,3 +232,13 @@ data/processed/
 models/
 outputs/
 .ipynb_checkpoints/
+
+# HMM Crypto - pipeline (branche melek)
+*.egg-info/
+results/
+
+# LaTeX
+*.aux
+*.out
+*.toc
+*.synctex.gz
